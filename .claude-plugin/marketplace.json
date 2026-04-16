@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "supercharge-code",
+  "description": "Collection of skills to supercharge Claude Code",
+  "owner": {
+    "name": "gonandrap",
+    "url": "https://github.com/gonandrap"
+  },
+  "plugins": [
+    {
+      "name": "supercharge-code",
+      "description": "Collection of skills to supercharge Claude Code",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
