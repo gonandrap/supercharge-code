@@ -1,0 +1,13 @@
+{
+  "name": "supercharge-code",
+  "version": "1.0.0",
+  "description": "Collection of skills to supercharge Claude Code",
+  "author": {
+    "name": "gonandrap",
+    "email": "gonzalo.a.r@gmail.com"
+  },
+  "homepage": "https://github.com/gonandrap/supercharge-code",
+  "repository": "https://github.com/gonandrap/supercharge-code",
+  "license": "MIT",
+  "skills": "./skills/"
+}
